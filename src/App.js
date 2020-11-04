@@ -27,6 +27,9 @@ function App() {
           VVDN
         </a>
         {/**/}
+        <p className="App-intro">
+          Hello World!
+        </p>
       </header>
     </div>
   );
