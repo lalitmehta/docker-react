@@ -28,7 +28,7 @@ function App() {
         </a>
         {/**/}
         <p className="App-intro">
-          Hello World!
+          Hello World from master!
         </p>
       </header>
     </div>
