@@ -17,19 +17,6 @@ function App() {
         >
           Learn React
         </a>
-        {/**/}
-        <a
-          className="App-link"
-          href="https://www.vvdntech.com"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          VVDN
-        </a>
-        {/**/}
-        <p className="App-intro">
-          Hello World from master!
-        </p>
       </header>
     </div>
   );
